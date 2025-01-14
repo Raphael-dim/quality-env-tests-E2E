@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="test.app"
+    errors="0" failures="0" hostname="" id="" package="app" skipped="0"
+    tests="1" time="12.35" timestamp="">
+  
+    <testcase name="Vérification des liens de navigation" classname="test.app" time="6.174" assertions="9">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

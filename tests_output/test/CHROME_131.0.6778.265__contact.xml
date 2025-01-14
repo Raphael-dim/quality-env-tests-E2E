@@ -7,7 +7,7 @@
     errors="0" failures="0" hostname="" id="" package="contact" skipped="0"
     tests="2" time="23.53" timestamp="">
   
-    <testcase name="Scénario 1: Soumission d&#39;un formulaire de contact valide" classname="test.contact" time="7.845" assertions="7">
+    <testcase name="Scénario 1: Soumission d&#39;un formulaire de contact valide" classname="test.contact" time="7.834" assertions="7">
 
     
 
@@ -24,7 +24,7 @@
     
     </testcase>
   
-    <testcase name="Scénario 2: Champs vides" classname="test.contact" time="3.919" assertions="6">
+    <testcase name="Scénario 2: Champs vides" classname="test.contact" time="3.928" assertions="6">
 
     
 

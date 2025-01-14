@@ -5,21 +5,21 @@
 
   <testsuite name="test.login"
     errors="0" failures="0" hostname="" id="" package="login" skipped="0"
-    tests="3" time="23.96" timestamp="">
+    tests="3" time="27.73" timestamp="">
   
-    <testcase name="Scénario 1: Authentification valide et accès à /admin" classname="test.login" time="3.185" assertions="2">
+    <testcase name="Scénario 1: Authentification valide et accès à /admin" classname="test.login" time="5.084" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="Scénario 2: Authentification non valide (mauvais compte)" classname="test.login" time="5.001" assertions="1">
+    <testcase name="Scénario 2: Authentification non valide (mauvais compte)" classname="test.login" time="5.548" assertions="1">
 
     
     </testcase>
   
-    <testcase name="Scénario 3: Champs vides (login et mot de passe requis)" classname="test.login" time="3.791" assertions="2">
+    <testcase name="Scénario 3: Champs vides (login et mot de passe requis)" classname="test.login" time="3.233" assertions="2">
 
     
 

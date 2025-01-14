@@ -5,9 +5,9 @@
 
   <testsuite name="test.admin"
     errors="0" failures="0" hostname="" id="" package="admin" skipped="0"
-    tests="3" time="20.05" timestamp="">
+    tests="3" time="25.84" timestamp="">
   
-    <testcase name="Scénario 1: Affichage de la liste des contacts pour un administrateur authentifié" classname="test.admin" time="2.586" assertions="10">
+    <testcase name="Scénario 1: Affichage de la liste des contacts pour un administrateur authentifié" classname="test.admin" time="4.429" assertions="10">
 
     
 
@@ -30,14 +30,14 @@
     
     </testcase>
   
-    <testcase name="Scénario 3: Déconnexion de l’administrateur" classname="test.admin" time="4.108" assertions="2">
+    <testcase name="Scénario 3: Déconnexion de l’administrateur" classname="test.admin" time="5.824" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="Scénario 4: Accès à la page admin sans authentification" classname="test.admin" time="3.327" assertions="2">
+    <testcase name="Scénario 4: Accès à la page admin sans authentification" classname="test.admin" time="2.668" assertions="2">
 
     
 
