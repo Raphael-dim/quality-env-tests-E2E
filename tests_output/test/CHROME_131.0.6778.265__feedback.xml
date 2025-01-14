@@ -5,9 +5,9 @@
 
   <testsuite name="test.feedback"
     errors="0" failures="0" hostname="" id="" package="feedback" skipped="0"
-    tests="2" time="16.03" timestamp="">
+    tests="2" time="18.30" timestamp="">
   
-    <testcase name="Scénario 1: Envoyer un feedback valide" classname="test.feedback" time="4.999" assertions="3">
+    <testcase name="Scénario 1: Envoyer un feedback valide" classname="test.feedback" time="5.625" assertions="3">
 
     
 
@@ -16,7 +16,7 @@
     
     </testcase>
   
-    <testcase name="Scénario 2: Envoyer un feedback avec un champ vide" classname="test.feedback" time="3.013" assertions="2">
+    <testcase name="Scénario 2: Envoyer un feedback avec un champ vide" classname="test.feedback" time="3.524" assertions="2">
 
     
 
